@@ -17,3 +17,4 @@ We decided to use NestJS for the back-end and React for the front-end. For the d
 ![Screenshot of profile page](https://github.com/De1iad/master_of_pong/blob/main/images/profile.png)
 ![Screenshot of leaderboard](https://github.com/De1iad/master_of_pong/blob/main/images/leaders.png)
 ![Screenshot of victory and defeat screens](https://github.com/De1iad/master_of_pong/blob/main/images/vicdef.png)
+![Screenshot of game in progress](https://github.com/De1iad/master_of_pong/blob/main/images/freeze.png)
