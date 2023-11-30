@@ -7,7 +7,7 @@ Through this project we implemented:
 - two-factor authentification
 - chat system including PMs, chatrooms, mods and powers, friends and ignore lists
 - a fighting-game-themed pong game with multiple game-modes and abilities
-- a matchmaking system
+- a matchmaking system and ranking system
 
 
 We decided to use NestJS for the back-end and React for the front-end. For the database ORM we used TypeORM.
